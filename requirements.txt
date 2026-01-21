@@ -1,0 +1,16 @@
+streamlit>=1.53.0
+pandas>=2.4.0
+numpy>=2.2.0
+plotly>=6.0.0
+folium>=0.17.0
+streamlit-folium>=0.20.0
+requests>=2.32.3
+python-dotenv>=1.0.1
+pytz>=2025.1
+opencv-python>=4.11.0
+geopandas>=1.0.1
+rasterio>=1.4.0
+shapely>=2.0.6
+albumentations>=1.4.24
+pysal>=2.11.0
+earthpy>=0.9.8
