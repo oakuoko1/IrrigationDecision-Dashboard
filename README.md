@@ -33,11 +33,9 @@ streamlit run Irrapp.py
 
  **Completed Stage 1**: Basic visualizations with non-real sensor data
 
-**Coming Soon:**
+**Next Steps:**
 - Stage 2: Add real-time weather data (Open-Meteo API), water balance calc, CWSI calculations
 - Stage 3: Interactive field map, Set up email alerts engine with multimodal AI based recommendations
-
-## Screenshots
 
 
 
