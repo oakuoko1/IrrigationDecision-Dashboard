@@ -1,4 +1,4 @@
-# Field-to-Alert: Irrigation Decision Dashboard
+# Irrigation Decision Support Dashboard proj
 
 A real-time irrigation scheduling dashboard using soil water balance methodology similar to ARSPivot utilizing soil moisture deficit and CWSI (Crop Water Stress Index) to trigger irrigation events. Built as a portfolio project to develop dashboards and platforms for farmers, agronomists or users to assist data driven decisions.
 
